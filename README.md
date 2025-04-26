@@ -16,12 +16,12 @@
      - A backend with Express.js and MongoDB.
      - A frontend built with React.
    
-2. **Version Control:**
+2. **Version Control:**...
    - Initialize a Git repository and push code to GitHub.
    - Use feature branches for new functionalities.
    - Document a clear commit history.
 
-3. **Continuous Integration:**
+3. **Continuous Integration:**...
    - Set up GitHub Actions for automated testing on every push.
    - Ensure test cases run before merging changes.
    - Notify contributors of failed builds.
@@ -31,7 +31,7 @@
    - Configure environment variables securely.
    - Implement PM2 for process management.
 
-5. **Frontend Deployment:**
+5. **Frontend Deployment:**...
    - Deploy the frontend on Vercel.
    - Connect the frontend to the deployed backend API.
    - Ensure responsiveness and performance optimization.
